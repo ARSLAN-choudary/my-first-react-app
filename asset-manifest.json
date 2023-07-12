@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-first-react-app/static/css/main.073c9b0a.css",
+    "main.js": "/my-first-react-app/static/js/main.ca4be3e4.js",
+    "static/js/787.c20870d0.chunk.js": "/my-first-react-app/static/js/787.c20870d0.chunk.js",
+    "static/media/appdev.jpg": "/my-first-react-app/static/media/appdev.c9e8b5716af7b3dfc853.jpg",
+    "static/media/downloadimg.jpg": "/my-first-react-app/static/media/downloadimg.d8b0b4421c3341d2e2f6.jpg",
+    "static/media/softdev.jpg": "/my-first-react-app/static/media/softdev.57814300d9b75040baee.jpg",
+    "static/media/logo.svg": "/my-first-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-first-react-app/index.html",
+    "main.073c9b0a.css.map": "/my-first-react-app/static/css/main.073c9b0a.css.map",
+    "main.ca4be3e4.js.map": "/my-first-react-app/static/js/main.ca4be3e4.js.map",
+    "787.c20870d0.chunk.js.map": "/my-first-react-app/static/js/787.c20870d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ca4be3e4.js"
+  ]
+}
